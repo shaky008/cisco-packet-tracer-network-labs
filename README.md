@@ -26,12 +26,13 @@ cisco-packet-tracer-network-labs/
 
 ### Labs Overview
 
-| Lab       | Topic                       | Files                    |
-| --------- | --------------------------- | ------------------------ |
-| **Lab 1** | VLAN & Switch Configuration | `.pkt` file + PDF report |
-| **Lab 2** | Advanced VLAN Configuration | `.pkt` file + PDF report |
-| **Lab 3** | DHCP Server Configuration   | `.pkt` file + PDF report |
-| **Lab 4** | DNS Server Configuration    | `.pkt` file + PDF report |
+| Lab       | Topic                        | Files                    |
+| --------- | ---------------------------- | ------------------------ |
+| **Lab 1** | VLAN & Switch Configuration  | `.pkt` file + PDF report |
+| **Lab 2** | Advanced VLAN Configuration  | `.pkt` file + PDF report |
+| **Lab 3** | DHCP Server Configuration    | `.pkt` file + PDF report |
+| **Lab 4** | DNS Server Configuration     | `.pkt` file + PDF report |
+| **Lab 5** | Troubleshooting LAN topology | `.pkt` file + PDF report |
 
 ## 🛠️ Tools Required
 
