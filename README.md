@@ -18,17 +18,20 @@ cisco-packet-tracer-network-labs/
 ├── Lab4_DNS/
 │   ├── Part4_DNS.pkt
 │   └── Report_4_DNS.pdf
+├── Lab5_Troubleshooting/
+│   ├── Part5_Troubleshooting.pkt
+│   └── Report_5_Troubleshooting_LAN_DNS.pdf
 └── Cisco_Commands_Cheat_Sheet.pdf
 ```
 
 ### Labs Overview
 
-| Lab | Topic | Files |
-|-----|-------|-------|
+| Lab       | Topic                       | Files                    |
+| --------- | --------------------------- | ------------------------ |
 | **Lab 1** | VLAN & Switch Configuration | `.pkt` file + PDF report |
 | **Lab 2** | Advanced VLAN Configuration | `.pkt` file + PDF report |
-| **Lab 3** | DHCP Server Configuration | `.pkt` file + PDF report |
-| **Lab 4** | DNS Server Configuration | `.pkt` file + PDF report |
+| **Lab 3** | DHCP Server Configuration   | `.pkt` file + PDF report |
+| **Lab 4** | DNS Server Configuration    | `.pkt` file + PDF report |
 
 ## 🛠️ Tools Required
 
@@ -54,4 +57,5 @@ cisco-packet-tracer-network-labs/
 For questions or feedback, feel free to reach out!
 
 ---
-*Last Updated: February 2026*
+
+_Last Updated: February 2026_
