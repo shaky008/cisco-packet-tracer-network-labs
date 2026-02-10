@@ -2,22 +2,33 @@
 
 This repository contains hands-on network configuration labs completed using Cisco Packet Tracer.
 
-## 📁 Repository Contents
+## 📁 Repository Structure
 
-### Lab Files (.pkt)
-1. **Part1_VLAN_Switch.pkt** - VLAN and Switch Configuration
-2. **Part2_VLAN.pkt** - Advanced VLAN Configuration
-3. **Part3_DHCP.pkt** - DHCP Server Configuration
-4. **Part4_DNS.pkt** - DNS Server Configuration
+```
+cisco-packet-tracer-network-labs/
+├── Lab1_VLAN_Switch/
+│   ├── Part1_VLAN_Switch.pkt
+│   └── Report_1_Switch_Vlan.pdf
+├── Lab2_VLAN/
+│   ├── Part2_VLAN.pkt
+│   └── Report_2_VLAN.pdf
+├── Lab3_DHCP/
+│   ├── Part3_DHCP.pkt
+│   └── Rerpot_3_DHCP.pdf
+├── Lab4_DNS/
+│   ├── Part4_DNS.pkt
+│   └── Report_4_DNS.pdf
+└── Cisco_Commands_Cheat_Sheet.pdf
+```
 
-### Lab Reports (PDF)
-1. **Report_1_Switch_Vlan.pdf** - VLAN and Switch Configuration Report
-2. **Report_2_VLAN.pdf** - Advanced VLAN Configuration Report
-3. **Rerpot_3_DHCP.pdf** - DHCP Server Configuration Report
-4. **Report_4_DNS.pdf** - DNS Server Configuration Report
+### Labs Overview
 
-### Additional Resources
-- **Cisco_Commands_Cheat_Sheet.pdf** - Quick reference for Cisco commands
+| Lab | Topic | Files |
+|-----|-------|-------|
+| **Lab 1** | VLAN & Switch Configuration | `.pkt` file + PDF report |
+| **Lab 2** | Advanced VLAN Configuration | `.pkt` file + PDF report |
+| **Lab 3** | DHCP Server Configuration | `.pkt` file + PDF report |
+| **Lab 4** | DNS Server Configuration | `.pkt` file + PDF report |
 
 ## 🛠️ Tools Required
 
@@ -25,9 +36,10 @@ This repository contains hands-on network configuration labs completed using Cis
 
 ## 📖 How to Use
 
-1. Download the .pkt files
-2. Open them in Cisco Packet Tracer
-3. Refer to the corresponding PDF reports for detailed documentation
+1. Navigate to the desired lab folder (Lab1_VLAN_Switch, Lab2_VLAN, etc.)
+2. Download or open the `.pkt` file in Cisco Packet Tracer
+3. Review the corresponding PDF report for detailed documentation and analysis
+4. Use the Cisco Commands Cheat Sheet as a quick reference
 
 ## 📝 Topics Covered
 
